@@ -1,0 +1,70 @@
+{
+    "os": "Linux-5.10.102.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-01-31T15:28:43.025011",
+    "startedAt": "2023-01-31T15:28:41.256391",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "raw_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/home/bialekm/genre_classification/starter/segregate/run.py",
+    "codePath": "starter/segregate/run.py",
+    "git": {
+        "remote": "https://github.com/BialyMT92/genre_classification",
+        "commit": "8420c000aa79ee7715d4f607658234a4acc790f3"
+    },
+    "email": "mt.bialek92@gmial.com",
+    "root": "/home/bialekm/genre_classification",
+    "host": "DESKTOP-AKO1G91",
+    "username": "bialekm",
+    "executable": "/home/bialekm/miniconda3/envs/mlflow-60c59b2f02d9c18dab7073729b477735a867910d/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2294.688,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2294.688,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2294.688,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2294.688,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2294.688,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.98248672485352,
+        "used": 22.121295928955078
+    },
+    "memory": {
+        "total": 12.378826141357422
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/d405ec2047884fcf94081defd2cfc8d7/artifacts
+end_time: 1675177069907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d405ec2047884fcf94081defd2cfc8d7
+run_name: bustling-wolf-188
+run_uuid: d405ec2047884fcf94081defd2cfc8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675176884334
+status: 4
+tags: []
+user_id: bialekm

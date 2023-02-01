@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/1e4da313393a4534ad77a3cd94a19c6b/artifacts
+end_time: 1675179119867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e4da313393a4534ad77a3cd94a19c6b
+run_name: brawny-lamb-590
+run_uuid: 1e4da313393a4534ad77a3cd94a19c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675178942591
+status: 3
+tags: []
+user_id: bialekm

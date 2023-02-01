@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/9615ddad867f4820910a697e0003653f/artifacts
+end_time: 1675176669181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9615ddad867f4820910a697e0003653f
+run_name: treasured-grouse-106
+run_uuid: 9615ddad867f4820910a697e0003653f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675176538946
+status: 4
+tags: []
+user_id: bialekm

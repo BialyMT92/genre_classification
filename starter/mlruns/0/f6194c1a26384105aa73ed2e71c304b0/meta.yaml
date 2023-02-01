@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/f6194c1a26384105aa73ed2e71c304b0/artifacts
+end_time: 1675178563479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6194c1a26384105aa73ed2e71c304b0
+run_name: receptive-wolf-921
+run_uuid: f6194c1a26384105aa73ed2e71c304b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675177263272
+status: 4
+tags: []
+user_id: bialekm

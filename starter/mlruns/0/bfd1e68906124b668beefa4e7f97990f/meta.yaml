@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/bfd1e68906124b668beefa4e7f97990f/artifacts
+end_time: 1675179524583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfd1e68906124b668beefa4e7f97990f
+run_name: inquisitive-ray-574
+run_uuid: bfd1e68906124b668beefa4e7f97990f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675179453079
+status: 3
+tags: []
+user_id: bialekm

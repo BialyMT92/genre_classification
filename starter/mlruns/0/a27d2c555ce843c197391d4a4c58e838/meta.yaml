@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/a27d2c555ce843c197391d4a4c58e838/artifacts
+end_time: 1675176633419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a27d2c555ce843c197391d4a4c58e838
+run_name: persistent-stork-322
+run_uuid: a27d2c555ce843c197391d4a4c58e838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675176543413
+status: 3
+tags: []
+user_id: bialekm

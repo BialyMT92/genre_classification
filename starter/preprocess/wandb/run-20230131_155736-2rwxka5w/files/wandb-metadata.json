@@ -1,0 +1,31 @@
+{
+    "os": "Linux-5.10.102.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-01-31T14:57:38.105380",
+    "startedAt": "2023-01-31T14:57:36.751380",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Data preprocessed"
+    ],
+    "state": "running",
+    "program": "/home/bialekm/genre_classification/starter/preprocess/run.py",
+    "codePath": "starter/preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/BialyMT92/genre_classification",
+        "commit": "8420c000aa79ee7715d4f607658234a4acc790f3"
+    },
+    "email": "mt.bialek92@gmial.com",
+    "root": "/home/bialekm/genre_classification",
+    "host": "DESKTOP-AKO1G91",
+    "username": "bialekm",
+    "executable": "/home/bialekm/miniconda3/envs/mlflow-4edf14e93ee8bd9e0e6d69fce1093905b3d14670/bin/python"
+}

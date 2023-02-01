@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/c9636f5b59f94886837653ceeb7cca36/artifacts
+end_time: 1675178563138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9636f5b59f94886837653ceeb7cca36
+run_name: powerful-goat-565
+run_uuid: c9636f5b59f94886837653ceeb7cca36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675178271589
+status: 4
+tags: []
+user_id: bialekm

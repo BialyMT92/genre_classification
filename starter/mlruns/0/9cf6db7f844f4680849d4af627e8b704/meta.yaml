@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/9cf6db7f844f4680849d4af627e8b704/artifacts
+end_time: 1675179558940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cf6db7f844f4680849d4af627e8b704
+run_name: spiffy-zebra-561
+run_uuid: 9cf6db7f844f4680849d4af627e8b704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675179524593
+status: 3
+tags: []
+user_id: bialekm

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/001e4fbfa9f04465ae2467514201f7ef/artifacts
+end_time: 1675176345353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 001e4fbfa9f04465ae2467514201f7ef
+run_name: legendary-wren-935
+run_uuid: 001e4fbfa9f04465ae2467514201f7ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675176340829
+status: 4
+tags: []
+user_id: bialekm

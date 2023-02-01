@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/829852f910b64adeb9be4f671ed64bf8/artifacts
+end_time: 1675179559147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 829852f910b64adeb9be4f671ed64bf8
+run_name: stately-fowl-562
+run_uuid: 829852f910b64adeb9be4f671ed64bf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675179305044
+status: 3
+tags: []
+user_id: bialekm

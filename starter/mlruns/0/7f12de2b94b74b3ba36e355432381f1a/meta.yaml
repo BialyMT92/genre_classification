@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/7f12de2b94b74b3ba36e355432381f1a/artifacts
+end_time: 1675180001427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f12de2b94b74b3ba36e355432381f1a
+run_name: orderly-sheep-24
+run_uuid: 7f12de2b94b74b3ba36e355432381f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675179950559
+status: 3
+tags: []
+user_id: bialekm

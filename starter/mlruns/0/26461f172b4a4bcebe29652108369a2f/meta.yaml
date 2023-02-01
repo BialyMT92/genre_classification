@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/26461f172b4a4bcebe29652108369a2f/artifacts
+end_time: 1675178791110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26461f172b4a4bcebe29652108369a2f
+run_name: awesome-cow-815
+run_uuid: 26461f172b4a4bcebe29652108369a2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675178748476
+status: 4
+tags: []
+user_id: bialekm

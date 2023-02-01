@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/6501c2cd52cf40869d3244d701d40c6a/artifacts
+end_time: 1675178942574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6501c2cd52cf40869d3244d701d40c6a
+run_name: enthused-slug-840
+run_uuid: 6501c2cd52cf40869d3244d701d40c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675178913736
+status: 3
+tags: []
+user_id: bialekm

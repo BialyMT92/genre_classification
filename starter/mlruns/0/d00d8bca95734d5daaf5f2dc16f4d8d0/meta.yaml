@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/d00d8bca95734d5daaf5f2dc16f4d8d0/artifacts
+end_time: 1675178867928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d00d8bca95734d5daaf5f2dc16f4d8d0
+run_name: respected-steed-199
+run_uuid: d00d8bca95734d5daaf5f2dc16f4d8d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675178846093
+status: 3
+tags: []
+user_id: bialekm

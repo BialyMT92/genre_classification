@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/5b5afb8eb1f441e592dcf0c857c9425f/artifacts
+end_time: 1675179926633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b5afb8eb1f441e592dcf0c857c9425f
+run_name: exultant-pug-209
+run_uuid: 5b5afb8eb1f441e592dcf0c857c9425f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675179882482
+status: 3
+tags: []
+user_id: bialekm

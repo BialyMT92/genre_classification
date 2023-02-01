@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bialekm/genre_classification/starter/mlruns/0/46fced4d17194fe0948b7e599bba1166/artifacts
+end_time: 1675178790798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46fced4d17194fe0948b7e599bba1166
+run_name: gifted-eel-769
+run_uuid: 46fced4d17194fe0948b7e599bba1166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675178753035
+status: 4
+tags: []
+user_id: bialekm

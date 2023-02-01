@@ -1,0 +1,66 @@
+{
+    "os": "Linux-5.10.102.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-01-31T15:44:19.305163",
+    "startedAt": "2023-01-31T15:44:17.869614",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/home/bialekm/genre_classification/starter/download/download_data.py",
+    "codePath": "starter/download/download_data.py",
+    "git": {
+        "remote": "https://github.com/BialyMT92/genre_classification",
+        "commit": "8420c000aa79ee7715d4f607658234a4acc790f3"
+    },
+    "email": "mt.bialek92@gmial.com",
+    "root": "/home/bialekm/genre_classification",
+    "host": "DESKTOP-AKO1G91",
+    "username": "bialekm",
+    "executable": "/home/bialekm/miniconda3/envs/mlflow-71d2138b13e5c7613a38366f254d7161b10a3a02/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2294.688,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2294.688,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2294.688,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2294.688,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2294.688,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.98248672485352,
+        "used": 22.182403564453125
+    },
+    "memory": {
+        "total": 12.378826141357422
+    }
+}
